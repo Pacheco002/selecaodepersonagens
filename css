@@ -7,6 +7,7 @@ body {
 }
 
 div {
+    
     border: 0px solid ;
     border-radius: 0px;
     display: inline;
@@ -27,13 +28,13 @@ h1{
 }
 #imgpos{
         position: absolute; 
-        left: 90px; 
+        left: 300px; 
         top: 70px; 
     }
 #imgpos2{
     position: absolute; 
     left: 300px; 
-    top: 70px; 
+    margin-top: 280px; 
 }
 #imgpos3{
     position: absolute; 
@@ -51,5 +52,14 @@ h1{
     top: 70px; 
 }
 #imgpos6{
+    position: absolute; 
+    margin-left: 900px; 
+    margin-top: 280px; 
     
+}
+#imgpos7{
+    border: none;
+    position: absolute; 
+    margin-left: 600px; 
+    margin-top: 280px; 
 }

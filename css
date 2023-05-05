@@ -1,0 +1,55 @@
+body {
+    color: black;
+    margin: 0;
+    background-image: url(https://i.pinimg.com/736x/22/a2/82/22a2828ee9b58111024b291b6aa04148--types-of-games-street-fighter.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 680px;
+}
+
+div {
+    border: 0px solid ;
+    border-radius: 0px;
+    display: inline;
+
+}
+
+img {
+    border: 10px solid ;
+    width: 150px;
+    height: 250;
+
+}
+
+
+h1{
+    text-align: center;
+    color: black;
+}
+#imgpos{
+        position: absolute; 
+        left: 90px; 
+        top: 70px; 
+    }
+#imgpos2{
+    position: absolute; 
+    left: 300px; 
+    top: 70px; 
+}
+#imgpos3{
+    position: absolute; 
+    left: 500px; 
+    top: 70px; 
+}
+#imgpos4{
+    position: absolute; 
+    left: 700px; 
+    top: 70px; 
+}
+#imgpos5{
+    position: absolute; 
+    left: 900px; 
+    top: 70px; 
+}
+#imgpos6{
+    
+}
